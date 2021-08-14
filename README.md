@@ -11,4 +11,5 @@ Assurez vous de ne pas avoir de script qui gère votre minimap.
 Compatibility : ESX 1.1 / 1.2 / LEGACY
 
 Movie : https://streamable.com/lkoyun
+
 Discord : https://discord.gg/yQM8Tsh
